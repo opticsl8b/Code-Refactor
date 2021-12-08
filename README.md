@@ -14,10 +14,12 @@
 
 * Downsize the image size in order to optimising loading speed
 
-
 The following image shows the screen shot of the Refactored Webpage
 
 ![Finished Webpage Screen Shot](./Assets/images/webpage.png)  
 
+## Link to the Webpage
+
+<https://opticsl8b.github.io/Code-Refactor/>
 
 
